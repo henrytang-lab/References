@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/19112740/1302515/2.50/62/3/Connector/-->
+<!DOCTYPE curve SYSTEM "eagle.dtd">
+<eagle version="7.7.0">
+<drawing>
+<settings>
+<setting alwaysvectorfont="no"/>
+<setting verticaltext="up"/>
+</settings>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<layers>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
+<layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+</layers>
+<library>
+<description>&lt;FFC/FPC Connector, 40 Contact(s), 1 Row(s), Female, Straight, 0.016 inch Pitch, Surface Mount Terminal, Locking, Black Insulator, Receptacle&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
+<packages>
+<package name="20682040E02">
+<description>&lt;b&gt;20682-040E-02-3&lt;/b&gt;&lt;br&gt;
+</description>
+<smd name="1" x="-7.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="2" x="-7.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="3" x="-7.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="4" x="-6.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="5" x="-6.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="6" x="-5.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="7" x="-5.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="8" x="-5.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="9" x="-4.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="10" x="-4.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="11" x="-3.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="12" x="-3.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="13" x="-3.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="14" x="-2.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="15" x="-2.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="16" x="-1.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="17" x="-1.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="18" x="-1.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="19" x="-0.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="20" x="-0.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="21" x="0.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="22" x="0.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="23" x="1.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="24" x="1.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="25" x="1.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="26" x="2.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="27" x="2.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="28" x="3.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="29" x="3.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="30" x="3.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="31" x="4.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="32" x="4.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="33" x="5.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="34" x="5.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="35" x="5.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="36" x="6.200" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="37" x="6.600" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="38" x="7.000" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="39" x="7.400" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="40" x="7.800" y="1.695" dx="0.600" dy="0.200" layer="1" rot="R90"/>
+<smd name="MP1" x="-8.700" y="1.645" dx="0.700" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP2" x="-7.200" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP3" x="-6.000" y="0.870" dx="0.550" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP4" x="-5.600" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP5" x="-4.000" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP6" x="-3.600" y="0.870" dx="0.550" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP7" x="-2.400" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP8" x="-1.200" y="0.870" dx="0.550" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP9" x="-0.800" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP10" x="0.800" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP11" x="1.200" y="0.870" dx="0.550" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP12" x="2.400" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP13" x="3.600" y="0.870" dx="0.550" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP14" x="4.000" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP15" x="5.600" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP16" x="6.000" y="0.870" dx="0.550" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP17" x="7.200" y="2.535" dx="0.580" dy="0.450" layer="1" rot="R90"/>
+<smd name="MP18" x="8.700" y="1.645" dx="0.700" dy="0.550" layer="1" rot="R90"/>
+<smd name="MP19" x="-10.445" y="0.995" dx="1.300" dy="0.710" layer="1" rot="R90"/>
+<smd name="MP20" x="-10.445" y="-1.330" dx="1.850" dy="0.710" layer="1" rot="R90"/>
+<smd name="MP21" x="10.445" y="0.995" dx="1.300" dy="0.710" layer="1" rot="R90"/>
+<smd name="MP22" x="10.445" y="-1.330" dx="1.850" dy="0.710" layer="1" rot="R90"/>
+<text x="0.000" y="0.145" align="center" size="1.27" layer="25" rot="R0" >&gt;NAME</text>
+<text x="0.000" y="0.145" align="center" size="1.27" layer="27" rot="R0" >&gt;VALUE</text>
+<wire x1="10.6" y1="2.245" x2="-10.6" y2="2.245" width="0.1" layer="51"/>
+<wire x1="-10.6" y1="2.245" x2="-10.6" y2="-2.535" width="0.1" layer="51"/>
+<wire x1="-10.6" y1="-2.535" x2="10.6" y2="-2.535" width="0.1" layer="51"/>
+<wire x1="10.6" y1="-2.535" x2="10.6" y2="2.245" width="0.1" layer="51"/>
+<wire x1="11.8" y1="3.825" x2="-11.8" y2="3.825" width="0.1" layer="51"/>
+<wire x1="-11.8" y1="3.825" x2="-11.8" y2="-3.535" width="0.1" layer="51"/>
+<wire x1="-11.8" y1="-3.535" x2="11.8" y2="-3.535" width="0.1" layer="51"/>
+<wire x1="11.8" y1="-3.535" x2="11.8" y2="3.825" width="0.1" layer="51"/>
+<wire x1="-7.8" y1="3.4" x2="-7.8" y2="3.4" width="0.1" layer="21"/>
+<wire x1="-7.800" y1="3.400" x2="-7.800" y2="3.500" width="0.1" layer="21" curve="180.0"/>
+<wire x1="-7.8" y1="3.5" x2="-7.8" y2="3.5" width="0.1" layer="21"/>
+<wire x1="-7.800" y1="3.500" x2="-7.800" y2="3.400" width="0.1" layer="21" curve="180.0"/>
+<wire x1="-10.6" y1="-2.535" x2="10.6" y2="-2.535" width="0.2" layer="21"/>
+</package>
+</packages>
+<symbols>
+<symbol name="20682-040E-02">
+<wire x1="5.08" y1="2.54" x2="20.32" y2="2.54" width="0.254" layer="94"/>
+<wire x1="20.32" y1="-78.74" x2="20.32" y2="2.54" width="0.254" layer="94"/>
+<wire x1="20.32" y1="-78.74" x2="5.08" y2="-78.74" width="0.254" layer="94"/>
+<wire x1="5.08" y1="2.54" x2="5.08" y2="-78.74" width="0.254" layer="94"/>
+<text x="21.59" y="7.62" align="center-left" size="1.778" layer="95">&gt;NAME</text>
+<text x="21.59" y="5.08" align="center-left" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="1" x="0" y="0" length="middle" direction="io" rot="R0"/>
+<pin name="2" x="0" y="-2.54" length="middle" direction="io" rot="R0"/>
+<pin name="3" x="0" y="-5.08" length="middle" direction="io" rot="R0"/>
+<pin name="4" x="0" y="-7.62" length="middle" direction="io" rot="R0"/>
+<pin name="5" x="0" y="-10.16" length="middle" direction="io" rot="R0"/>
+<pin name="6" x="0" y="-12.7" length="middle" direction="io" rot="R0"/>
+<pin name="7" x="0" y="-15.24" length="middle" direction="io" rot="R0"/>
+<pin name="8" x="0" y="-17.78" length="middle" direction="io" rot="R0"/>
+<pin name="9" x="0" y="-20.32" length="middle" direction="io" rot="R0"/>
+<pin name="10" x="0" y="-22.86" length="middle" direction="io" rot="R0"/>
+<pin name="11" x="0" y="-25.4" length="middle" direction="io" rot="R0"/>
+<pin name="12" x="0" y="-27.94" length="middle" direction="io" rot="R0"/>
+<pin name="13" x="0" y="-30.48" length="middle" direction="io" rot="R0"/>
+<pin name="14" x="0" y="-33.02" length="middle" direction="io" rot="R0"/>
+<pin name="15" x="0" y="-35.56" length="middle" direction="io" rot="R0"/>
+<pin name="16" x="0" y="-38.1" length="middle" direction="io" rot="R0"/>
+<pin name="17" x="0" y="-40.64" length="middle" direction="io" rot="R0"/>
+<pin name="18" x="0" y="-43.18" length="middle" direction="io" rot="R0"/>
+<pin name="19" x="0" y="-45.72" length="middle" direction="io" rot="R0"/>
+<pin name="20" x="0" y="-48.26" length="middle" direction="io" rot="R0"/>
+<pin name="21" x="0" y="-50.8" length="middle" direction="io" rot="R0"/>
+<pin name="22" x="0" y="-53.34" length="middle" direction="io" rot="R0"/>
+<pin name="23" x="0" y="-55.88" length="middle" direction="io" rot="R0"/>
+<pin name="24" x="0" y="-58.42" length="middle" direction="io" rot="R0"/>
+<pin name="25" x="0" y="-60.96" length="middle" direction="io" rot="R0"/>
+<pin name="26" x="0" y="-63.5" length="middle" direction="io" rot="R0"/>
+<pin name="27" x="0" y="-66.04" length="middle" direction="io" rot="R0"/>
+<pin name="28" x="0" y="-68.58" length="middle" direction="io" rot="R0"/>
+<pin name="29" x="0" y="-71.12" length="middle" direction="io" rot="R0"/>
+<pin name="30" x="0" y="-73.66" length="middle" direction="io" rot="R0"/>
+<pin name="31" x="0" y="-76.2" length="middle" direction="io" rot="R0"/>
+<pin name="32" x="25.4" y="0" length="middle" direction="io" rot="R180"/>
+<pin name="33" x="25.4" y="-2.54" length="middle" direction="io" rot="R180"/>
+<pin name="34" x="25.4" y="-5.08" length="middle" direction="io" rot="R180"/>
+<pin name="35" x="25.4" y="-7.62" length="middle" direction="io" rot="R180"/>
+<pin name="36" x="25.4" y="-10.16" length="middle" direction="io" rot="R180"/>
+<pin name="37" x="25.4" y="-12.7" length="middle" direction="io" rot="R180"/>
+<pin name="38" x="25.4" y="-15.24" length="middle" direction="io" rot="R180"/>
+<pin name="39" x="25.4" y="-17.78" length="middle" direction="io" rot="R180"/>
+<pin name="40" x="25.4" y="-20.32" length="middle" direction="io" rot="R180"/>
+<pin name="MP1" x="25.4" y="-22.86" length="middle" direction="io" rot="R180"/>
+<pin name="MP2" x="25.4" y="-25.4" length="middle" direction="io" rot="R180"/>
+<pin name="MP3" x="25.4" y="-27.94" length="middle" direction="io" rot="R180"/>
+<pin name="MP4" x="25.4" y="-30.48" length="middle" direction="io" rot="R180"/>
+<pin name="MP5" x="25.4" y="-33.02" length="middle" direction="io" rot="R180"/>
+<pin name="MP6" x="25.4" y="-35.56" length="middle" direction="io" rot="R180"/>
+<pin name="MP7" x="25.4" y="-38.1" length="middle" direction="io" rot="R180"/>
+<pin name="MP8" x="25.4" y="-40.64" length="middle" direction="io" rot="R180"/>
+<pin name="MP9" x="25.4" y="-43.18" length="middle" direction="io" rot="R180"/>
+<pin name="MP10" x="25.4" y="-45.72" length="middle" direction="io" rot="R180"/>
+<pin name="MP11" x="25.4" y="-48.26" length="middle" direction="io" rot="R180"/>
+<pin name="MP12" x="25.4" y="-50.8" length="middle" direction="io" rot="R180"/>
+<pin name="MP13" x="25.4" y="-53.34" length="middle" direction="io" rot="R180"/>
+<pin name="MP14" x="25.4" y="-55.88" length="middle" direction="io" rot="R180"/>
+<pin name="MP15" x="25.4" y="-58.42" length="middle" direction="io" rot="R180"/>
+<pin name="MP16" x="25.4" y="-60.96" length="middle" direction="io" rot="R180"/>
+<pin name="MP17" x="25.4" y="-63.5" length="middle" direction="io" rot="R180"/>
+<pin name="MP18" x="25.4" y="-66.04" length="middle" direction="io" rot="R180"/>
+<pin name="MP19" x="25.4" y="-68.58" length="middle" direction="io" rot="R180"/>
+<pin name="MP20" x="25.4" y="-71.12" length="middle" direction="io" rot="R180"/>
+<pin name="MP21" x="25.4" y="-73.66" length="middle" direction="io" rot="R180"/>
+<pin name="MP22" x="25.4" y="-76.2" length="middle" direction="io" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="20682-040E-02" prefix="J">
+<description>&lt;b&gt;FFC/FPC Connector, 40 Contact(s), 1 Row(s), Female, Straight, 0.016 inch Pitch, Surface Mount Terminal, Locking, Black Insulator, Receptacle&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="https://www.i-pex.com/sites/default/files/downloads/pdf/2D_CABLINE-CA_II_RECEPTACLE_20682C10.pdf"&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="20682-040E-02" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="20682040E02">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9"/>
+<connect gate="G$1" pin="10" pad="10"/>
+<connect gate="G$1" pin="11" pad="11"/>
+<connect gate="G$1" pin="12" pad="12"/>
+<connect gate="G$1" pin="13" pad="13"/>
+<connect gate="G$1" pin="14" pad="14"/>
+<connect gate="G$1" pin="15" pad="15"/>
+<connect gate="G$1" pin="16" pad="16"/>
+<connect gate="G$1" pin="17" pad="17"/>
+<connect gate="G$1" pin="18" pad="18"/>
+<connect gate="G$1" pin="19" pad="19"/>
+<connect gate="G$1" pin="20" pad="20"/>
+<connect gate="G$1" pin="21" pad="21"/>
+<connect gate="G$1" pin="22" pad="22"/>
+<connect gate="G$1" pin="23" pad="23"/>
+<connect gate="G$1" pin="24" pad="24"/>
+<connect gate="G$1" pin="25" pad="25"/>
+<connect gate="G$1" pin="26" pad="26"/>
+<connect gate="G$1" pin="27" pad="27"/>
+<connect gate="G$1" pin="28" pad="28"/>
+<connect gate="G$1" pin="29" pad="29"/>
+<connect gate="G$1" pin="30" pad="30"/>
+<connect gate="G$1" pin="31" pad="31"/>
+<connect gate="G$1" pin="32" pad="32"/>
+<connect gate="G$1" pin="33" pad="33"/>
+<connect gate="G$1" pin="34" pad="34"/>
+<connect gate="G$1" pin="35" pad="35"/>
+<connect gate="G$1" pin="36" pad="36"/>
+<connect gate="G$1" pin="37" pad="37"/>
+<connect gate="G$1" pin="38" pad="38"/>
+<connect gate="G$1" pin="39" pad="39"/>
+<connect gate="G$1" pin="40" pad="40"/>
+<connect gate="G$1" pin="MP1" pad="MP1"/>
+<connect gate="G$1" pin="MP2" pad="MP2"/>
+<connect gate="G$1" pin="MP3" pad="MP3"/>
+<connect gate="G$1" pin="MP4" pad="MP4"/>
+<connect gate="G$1" pin="MP5" pad="MP5"/>
+<connect gate="G$1" pin="MP6" pad="MP6"/>
+<connect gate="G$1" pin="MP7" pad="MP7"/>
+<connect gate="G$1" pin="MP8" pad="MP8"/>
+<connect gate="G$1" pin="MP9" pad="MP9"/>
+<connect gate="G$1" pin="MP10" pad="MP10"/>
+<connect gate="G$1" pin="MP11" pad="MP11"/>
+<connect gate="G$1" pin="MP12" pad="MP12"/>
+<connect gate="G$1" pin="MP13" pad="MP13"/>
+<connect gate="G$1" pin="MP14" pad="MP14"/>
+<connect gate="G$1" pin="MP15" pad="MP15"/>
+<connect gate="G$1" pin="MP16" pad="MP16"/>
+<connect gate="G$1" pin="MP17" pad="MP17"/>
+<connect gate="G$1" pin="MP18" pad="MP18"/>
+<connect gate="G$1" pin="MP19" pad="MP19"/>
+<connect gate="G$1" pin="MP20" pad="MP20"/>
+<connect gate="G$1" pin="MP21" pad="MP21"/>
+<connect gate="G$1" pin="MP22" pad="MP22"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="Future_Part_Number" value="" constant="no"/>
+<attribute name="Future_Price-Stock" value="" constant="no"/>
+<attribute name="Manufacturer_Name" value="I-Pex" constant="no"/>
+<attribute name="Manufacturer_Part_Number" value="20682-040E-02" constant="no"/>
+<attribute name="Description" value="FFC/FPC Connector, 40 Contact(s), 1 Row(s), Female, Straight, 0.016 inch Pitch, Surface Mount Terminal, Locking, Black Insulator, Receptacle" constant="no"/>
+<attribute name="Height" value="0.92mm" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+</drawing>
+</eagle>

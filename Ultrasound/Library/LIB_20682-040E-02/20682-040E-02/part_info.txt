@@ -1,0 +1,9 @@
+Manufacturer=I-Pex
+PartNumber=20682-040E-02
+PartCategory=Connector
+PackageCategory=Other
+PinCount=62
+Version=2.1
+Released=2024-01-31 06:10:56
+Downloaded=2024-04-09 16:45:46
+3D=Y

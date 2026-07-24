@@ -1,0 +1,79 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+20682-040E-02 20682040E02 I CON 7 1 0 0 0
+TIMESTAMP 2024.04.09.16.45.46
+"Future Part Number" 
+"Future Price/Stock" 
+"Manufacturer_Name" I-Pex
+"Manufacturer_Part_Number" 20682-040E-02
+"Description" FFC/FPC Connector, 40 Contact(s), 1 Row(s), Female, Straight, 0.016 inch Pitch, Surface Mount Terminal, Locking, Black Insulator, Receptacle
+"Datasheet Link" https://www.i-pex.com/sites/default/files/downloads/pdf/2D_CABLINE-CA_II_RECEPTACLE_20682C10.pdf
+"Geometry.Height" 0.92mm
+GATE 1 62 0
+20682-040E-02
+1 0 U 1
+2 0 U 2
+3 0 U 3
+4 0 U 4
+5 0 U 5
+6 0 U 6
+7 0 U 7
+8 0 U 8
+9 0 U 9
+10 0 U 10
+11 0 U 11
+12 0 U 12
+13 0 U 13
+14 0 U 14
+15 0 U 15
+16 0 U 16
+17 0 U 17
+18 0 U 18
+19 0 U 19
+20 0 U 20
+21 0 U 21
+22 0 U 22
+23 0 U 23
+24 0 U 24
+25 0 U 25
+26 0 U 26
+27 0 U 27
+28 0 U 28
+29 0 U 29
+30 0 U 30
+31 0 U 31
+32 0 U 32
+33 0 U 33
+34 0 U 34
+35 0 U 35
+36 0 U 36
+37 0 U 37
+38 0 U 38
+39 0 U 39
+40 0 U 40
+MP1 0 U MP1
+MP2 0 U MP2
+MP3 0 U MP3
+MP4 0 U MP4
+MP5 0 U MP5
+MP6 0 U MP6
+MP7 0 U MP7
+MP8 0 U MP8
+MP9 0 U MP9
+MP10 0 U MP10
+MP11 0 U MP11
+MP12 0 U MP12
+MP13 0 U MP13
+MP14 0 U MP14
+MP15 0 U MP15
+MP16 0 U MP16
+MP17 0 U MP17
+MP18 0 U MP18
+MP19 0 U MP19
+MP20 0 U MP20
+MP21 0 U MP21
+MP22 0 U MP22
+
+*END*
+*REMARK* SamacSys ECAD Model
+19112740/1302515/2.50/62/3/Connector

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '20682_040E_02'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FUTURE_PART_NUMBER", "FUTURE_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "I-Pex", "20682-040E-02" (!) = "", "20682040E02", "Other", "", "", "FFC/FPC Connector, 40 Contact(s), 1 Row(s), Female, Straight, 0.016 inch Pitch, Surface Mount Terminal, Locking, Black Insulator, Receptacle", "https://www.i-pex.com/sites/default/files/downloads/pdf/2D_CABLINE-CA_II_RECEPTACLE_20682C10.pdf", "0.92 mm"
+END_PART
+
+END.

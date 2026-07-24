@@ -1,0 +1,140 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Project\Working\HV\References\Simulation files\Simulation files\Laser_Driver 3.asc
+Start Time: Wed Jul 16 10:33:00 2025
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node n011.  This node is used by r5.
+WARNING: Less than two connections to node n014.  This node is used by r4.
+WARNING: Less than two connections to node n006.  This node is used by l1.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.02385
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.01955
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.0126
+vernier = 0.00195312
+vernier = 0.00260417
+vernier = 0.00130208
+Gmin = 1.00915
+vernier = 0.00173611
+vernier = 0.000868055
+Gmin = 1.00685
+vernier = 0.00115741
+vernier = 0.000578703
+Gmin = 1.0054
+vernier = 0.000771604
+vernier = 0.000578703
+vernier = 0.000771604
+Gmin = 1.00409
+vernier = 0.000578703
+vernier = 0.000434027
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 1.00374
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 21.2595%
+vernier = 0.00390625
+Source Step = 21.2388%
+Source Step = 21.2683%
+Source Step = 21.2979%
+Source Step = 21.3275%
+Source Step = 21.3571%
+vernier = 0.00146484
+Source Step = 21.3912%
+Source Step = 21.4355%
+Source Step = 21.4799%
+Source Step = 21.5243%
+Source Step = 21.5687%
+vernier = 0.00219727
+Source Step = 21.6175%
+Source Step = 21.6841%
+Source Step = 21.7507%
+Source Step = 21.8173%
+Source Step = 21.8839%
+vernier = 0.0032959
+Source Step = 21.9538%
+Source Step = 22.0537%
+Source Step = 22.1535%
+Source Step = 22.2534%
+Source Step = 22.3533%
+Source Step = 22.4532%
+vernier = 0.00494385
+Source Step = 22.603%
+Source Step = 22.7528%
+Source Step = 22.9026%
+Source Step = 23.0524%
+Source Step = 23.2022%
+vernier = 0.00741577
+Source Step = 23.4195%
+Source Step = 23.6442%
+Source Step = 23.8689%
+Source Step = 24.0936%
+Source Step = 24.3183%
+vernier = 0.0111237
+Source Step = 24.633%
+Source Step = 24.97%
+Source Step = 25.3071%
+Source Step = 25.6442%
+Source Step = 25.9813%
+vernier = 0.0166855
+Source Step = 26.4363%
+Source Step = 26.942%
+Source Step = 27.4476%
+Source Step = 27.9532%
+Source Step = 28.4588%
+vernier = 0.0250282
+Source Step = 29.1161%
+Source Step = 29.8746%
+Source Step = 30.633%
+Source Step = 31.3914%
+Source Step = 32.1499%
+vernier = 0.0375423
+Source Step = 33.0979%
+Source Step = 34.2355%
+Source Step = 35.3732%
+Source Step = 36.5108%
+Source Step = 37.6485%
+vernier = 0.0563135
+Source Step = 39.0137%
+Source Step = 40.7201%
+Source Step = 42.4266%
+Source Step = 44.1331%
+Source Step = 45.8395%
+vernier = 0.0844703
+Source Step = 47.802%
+Source Step = 50.3617%
+Source Step = 52.9214%
+Source Step = 55.4811%
+Source Step = 58.0408%
+vernier = 0.126705
+Source Step = 60.8565%
+Source Step = 64.696%
+Source Step = 68.5356%
+Source Step = 72.3751%
+Source Step = 76.2147%
+vernier = 0.190058
+Source Step = 80.2462%
+Source Step = 86.0056%
+Source Step = 91.7649%
+Source Step = 97.5242%
+Source Step = 100%
+Source Step = 100%
+vernier = 0.285087
+Source stepping succeeded in finding the operating point.
+

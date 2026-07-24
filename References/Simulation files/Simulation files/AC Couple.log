@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Project\Working\HV\References\Simulation files\Simulation files\AC Couple.asc
+Start Time: Mon Aug 11 08:55:46 2025
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.099 seconds.
+
